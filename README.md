@@ -1,6 +1,6 @@
 # Hi, I'm Dragoș 👋
 
-<p align="justify"><strong>AI Automation &amp; Full-Stack Software Engineer</strong> — sole developer at a marketing agency in Bucharest, where I build and run the entire internal AI-automation platform: web apps, LLM-powered tools, scrapers, and a Python pipeline that automatically edits video in DaVinci Resolve.</p>
+<p align="justify"><strong>AI Engineer &amp; Full-Stack Developer</strong> — sole developer at a marketing agency in Bucharest, where I build and run the entire internal AI-automation platform: web apps, LLM-powered tools, scrapers, and a Python pipeline that automatically edits video in DaVinci Resolve.</p>
 
 <p align="justify">MSc student in IT &amp; Data Engineering @ ASE Bucharest. In my free time I go lower-level: electronics, embedded (ESP32) and 3D printing.</p>
 
